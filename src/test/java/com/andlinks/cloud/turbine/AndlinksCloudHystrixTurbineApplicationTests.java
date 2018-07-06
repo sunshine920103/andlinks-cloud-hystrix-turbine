@@ -1,4 +1,4 @@
-package com.andlinks.cloud.andlinkscloudhystrixturbine;
+package com.andlinks.cloud.turbine;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
